@@ -17,6 +17,8 @@ Several key factors and components are commonly considered in time series analys
 
 4. **Noise:** Random fluctuations or irregularities in the data that cannot be attributed to trend, seasonality, or cyclic patterns.
 
+   ![image](https://github.com/raviteja-padala/Time_Series/blob/main/timeseries.jpg)
+
 **Use Cases:**
 Time series analysis has numerous practical applications, including:
 
